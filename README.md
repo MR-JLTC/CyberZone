@@ -1,31 +1,17 @@
-# Project Title
+## :octocat:PROJECT TITLE
 
 CYBERZONE CONSOLE
 
-## Description
+## :octocat:DESCRIPTION
 CLI POS SYSTEM WITH SCRIPTED BOT
 
 -----------------------------------
-PS. Use Windows cmd because the system is only for Windows platform
 
------------------------------------
-## INSTALLATION PROCESS
-To install the `CyberZone Console` program, follow these steps:
+## :octocat:SYSTEM AVAILABILITY
+[![Static Badge](https://img.shields.io/badge/Windows(Console)-%20v1.0-blue)](https://github.com/MR-JLTC/CyberZone/releases/download/v1.0/CyberZone.exe)
 
-1. Clone the repository to your local machine:
-```
-git clone https://github.com/ShadowR3aper/CyberZoneConsole.git
-```
-2. Navigate to the project directory:
-```
-cd CyberZoneConsole
-```
-3. Run the program by running the following command or click the runnable file:
-```
-CyberZone
-```
 ---------------------------------
-## SYSTEM PREVIEW
+## :octocat:SYSTEM PREVIEW
 
 ### `Front Page`
 ![Screenshot (1035)](https://github.com/ShadowR3aper/CyberZone_Console/assets/123635909/74371fa8-5501-4776-9759-4002d7861069)

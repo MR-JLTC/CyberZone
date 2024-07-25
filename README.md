@@ -3,13 +3,10 @@
 █─▄▄▄─█▄─█─▄█▄─▄─▀█▄─▄▄─█▄─▄▄▀█░▄▄░▄█─▄▄─█▄─▀█▄─▄█▄─▄▄─█<br>
 █─███▀██▄─▄███─▄─▀██─▄█▀██─▄─▄██▀▄█▀█─██─██─█▄▀─███─▄█▀█<br>
 ▀▄▄▄▄▄▀▀▄▄▄▀▀▄▄▄▄▀▀▄▄▄▄▄▀▄▄▀▄▄▀▄▄▄▄▄▀▄▄▄▄▀▄▄▄▀▀▄▄▀▄▄▄▄▄▀<br>
-<br>
+<h3>CLI POS SYSTEM WITH SCRIPTED BOT</h3><br>
   
 [![Static Badge](https://img.shields.io/badge/Windows(Console)-%20v1.0-blue)](https://github.com/MR-JLTC/CyberZone/releases/download/v1.0/CyberZone.exe)
 </div>
-
-## :octocat:DESCRIPTION
-CLI POS SYSTEM WITH SCRIPTED BOT
 
 ---------------------------------
 ## :octocat:SYSTEM PREVIEW

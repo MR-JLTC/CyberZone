@@ -3,7 +3,8 @@
 █─▄▄▄─█▄─█─▄█▄─▄─▀█▄─▄▄─█▄─▄▄▀█░▄▄░▄█─▄▄─█▄─▀█▄─▄█▄─▄▄─█<br>
 █─███▀██▄─▄███─▄─▀██─▄█▀██─▄─▄██▀▄█▀█─██─██─█▄▀─███─▄█▀█<br>
 ▀▄▄▄▄▄▀▀▄▄▄▀▀▄▄▄▄▀▀▄▄▄▄▄▀▄▄▀▄▄▀▄▄▄▄▄▀▄▄▄▄▀▄▄▄▀▀▄▄▀▄▄▄▄▄▀<br>
-
+<br>
+  
 [![Static Badge](https://img.shields.io/badge/Windows(Console)-%20v1.0-blue)](https://github.com/MR-JLTC/CyberZone/releases/download/v1.0/CyberZone.exe)
 </div>
 

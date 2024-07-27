@@ -1,7 +1,7 @@
 <div align="center">
 █▀▀ █▄█ █▄▄ █▀▀ █▀█ ▀█ █▀█ █▄░█ █▀▀<br>
 █▄▄ ░█░ █▄█ ██▄ █▀▄ █▄ █▄█ █░▀█ ██▄<br>
-<h3>CLI POS SYSTEM WITH SCRIPTED BOT</h3><br>
+<h3>CLI POS SYSTEM WITH SCRIPTED BOT</h3>
 <h4>Available Versions:</h4>
   
 [![Static Badge](https://img.shields.io/badge/Windows-%20Console-blue)](https://github.com/MR-JLTC/CyberZone/releases/download/v1.0/CyberZone.exe)

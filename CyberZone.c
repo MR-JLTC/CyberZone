@@ -1,7 +1,7 @@
 /* * *
-  CODED BY    	   : 丂ʜᴀᴅᴏᴡ尺ᴇᴀᴘᴇ尺
+  CODED BY    	   : MR.JLTC
   FROM             : 𝐂𝐓 𝐈𝐍𝐂𝐎𝐑𝐏𝐎𝐑𝐀𝐓𝐄𝐃
-  PATCH DATE       : 6/13/２３
+  PATCH DATE       : 6/13/23
   System Name      : CYBERZONE CONSOLE
   System Version   : v1.2-beta
   System Type      : POS
